@@ -1,6 +1,7 @@
 # GRADEME Installation and Usage Manual
 
-This manual explains how to obtain the **42-EXAM** project folder and execute the command required to run GRADEME.
+
+This manual explains how to obtain the **42-EXAM** project folder and execute the command required to run **GRADEME locally**, as an alternative to using the grademe.fr website for offline testing
 
 > **Project:** **42-EXAM**  
 > **Author:** [JCluzet](https://github.com/JCluzet)
@@ -41,6 +42,6 @@ Once you are in the project directory, execute the following command to run GRAD
 ```bash
 bash -c "$(curl https://grademe.fr)"
 ```
-### Important: Make sure you are not using the Fish shell in your terminal. The command is designed to work with Bash.
+**Important:** Make sure you are **not** using the **Fish** shell in your terminal. The command is designed to work with Bash.
 
 This command downloads and executes the GRADEME script. Follow any on-screen instructions in your terminal to complete the setup.
