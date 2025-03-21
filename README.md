@@ -36,7 +36,7 @@ unzip 42-EXAM.zip
 cd 42-EXAM
 ```
 
-### Running GRADEME
+### Running GRADEME - **not** using **Fish**
 Once you are in the project directory, execute the following command to run GRADEME:
 
 ```bash
